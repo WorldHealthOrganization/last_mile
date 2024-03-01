@@ -1,70 +1,70 @@
-"projection_date","model_name","year","scenario","quantile","country_iso3","target","value"
-"2024-03-01","ModelA",2023,"statusquo",0.01,"ABC","hiv_incidence",0.8313
-"2024-03-01","ModelA",2023,"statusquo",0.025,"ABC","hiv_incidence",0.8972
-"2024-03-01","ModelA",2023,"statusquo",0.05,"ABC","hiv_incidence",0.9539
-"2024-03-01","ModelA",2023,"statusquo",0.1,"ABC","hiv_incidence",1.0193
-"2024-03-01","ModelA",2023,"statusquo",0.15,"ABC","hiv_incidence",1.0634
-"2024-03-01","ModelA",2023,"statusquo",0.2,"ABC","hiv_incidence",1.0985
-"2024-03-01","ModelA",2023,"statusquo",0.25,"ABC","hiv_incidence",1.1286
-"2024-03-01","ModelA",2023,"statusquo",0.3,"ABC","hiv_incidence",1.1556
-"2024-03-01","ModelA",2023,"statusquo",0.35,"ABC","hiv_incidence",1.1806
-"2024-03-01","ModelA",2023,"statusquo",0.4,"ABC","hiv_incidence",1.2044
-"2024-03-01","ModelA",2023,"statusquo",0.45,"ABC","hiv_incidence",1.2274
-"2024-03-01","ModelA",2023,"statusquo",0.5,"ABC","hiv_incidence",1.25
-"2024-03-01","ModelA",2023,"statusquo",0.55,"ABC","hiv_incidence",1.2726
-"2024-03-01","ModelA",2023,"statusquo",0.6,"ABC","hiv_incidence",1.2956
-"2024-03-01","ModelA",2023,"statusquo",0.65,"ABC","hiv_incidence",1.3194
-"2024-03-01","ModelA",2023,"statusquo",0.7,"ABC","hiv_incidence",1.3444
-"2024-03-01","ModelA",2023,"statusquo",0.75,"ABC","hiv_incidence",1.3714
-"2024-03-01","ModelA",2023,"statusquo",0.8,"ABC","hiv_incidence",1.4015
-"2024-03-01","ModelA",2023,"statusquo",0.85,"ABC","hiv_incidence",1.4366
-"2024-03-01","ModelA",2023,"statusquo",0.9,"ABC","hiv_incidence",1.4807
-"2024-03-01","ModelA",2023,"statusquo",0.95,"ABC","hiv_incidence",1.5461
-"2024-03-01","ModelA",2023,"statusquo",0.975,"ABC","hiv_incidence",1.6028
-"2024-03-01","ModelA",2023,"statusquo",0.99,"ABC","hiv_incidence",1.6687
-"2024-03-01","ModelA",2030,"statusquo",0.01,"ABC","hiv_incidence",0.3731
-"2024-03-01","ModelA",2030,"statusquo",0.025,"ABC","hiv_incidence",0.4325
-"2024-03-01","ModelA",2030,"statusquo",0.05,"ABC","hiv_incidence",0.4835
-"2024-03-01","ModelA",2030,"statusquo",0.1,"ABC","hiv_incidence",0.5424
-"2024-03-01","ModelA",2030,"statusquo",0.15,"ABC","hiv_incidence",0.5821
-"2024-03-01","ModelA",2030,"statusquo",0.2,"ABC","hiv_incidence",0.6137
-"2024-03-01","ModelA",2030,"statusquo",0.25,"ABC","hiv_incidence",0.6407
-"2024-03-01","ModelA",2030,"statusquo",0.3,"ABC","hiv_incidence",0.665
-"2024-03-01","ModelA",2030,"statusquo",0.35,"ABC","hiv_incidence",0.6876
-"2024-03-01","ModelA",2030,"statusquo",0.4,"ABC","hiv_incidence",0.709
-"2024-03-01","ModelA",2030,"statusquo",0.45,"ABC","hiv_incidence",0.7296
-"2024-03-01","ModelA",2030,"statusquo",0.5,"ABC","hiv_incidence",0.75
-"2024-03-01","ModelA",2030,"statusquo",0.55,"ABC","hiv_incidence",0.7704
-"2024-03-01","ModelA",2030,"statusquo",0.6,"ABC","hiv_incidence",0.791
-"2024-03-01","ModelA",2030,"statusquo",0.65,"ABC","hiv_incidence",0.8124
-"2024-03-01","ModelA",2030,"statusquo",0.7,"ABC","hiv_incidence",0.835
-"2024-03-01","ModelA",2030,"statusquo",0.75,"ABC","hiv_incidence",0.8593
-"2024-03-01","ModelA",2030,"statusquo",0.8,"ABC","hiv_incidence",0.8863
-"2024-03-01","ModelA",2030,"statusquo",0.85,"ABC","hiv_incidence",0.9179
-"2024-03-01","ModelA",2030,"statusquo",0.9,"ABC","hiv_incidence",0.9576
-"2024-03-01","ModelA",2030,"statusquo",0.95,"ABC","hiv_incidence",1.0165
-"2024-03-01","ModelA",2030,"statusquo",0.975,"ABC","hiv_incidence",1.0675
-"2024-03-01","ModelA",2030,"statusquo",0.99,"ABC","hiv_incidence",1.1269
-"2024-03-01","ModelA",2040,"statusquo",0.01,"ABC","hiv_incidence",0
-"2024-03-01","ModelA",2040,"statusquo",0.025,"ABC","hiv_incidence",0
-"2024-03-01","ModelA",2040,"statusquo",0.05,"ABC","hiv_incidence",0.0102
-"2024-03-01","ModelA",2040,"statusquo",0.1,"ABC","hiv_incidence",0.0631
-"2024-03-01","ModelA",2040,"statusquo",0.15,"ABC","hiv_incidence",0.0989
-"2024-03-01","ModelA",2040,"statusquo",0.2,"ABC","hiv_incidence",0.1273
-"2024-03-01","ModelA",2040,"statusquo",0.25,"ABC","hiv_incidence",0.1517
-"2024-03-01","ModelA",2040,"statusquo",0.3,"ABC","hiv_incidence",0.1735
-"2024-03-01","ModelA",2040,"statusquo",0.35,"ABC","hiv_incidence",0.1938
-"2024-03-01","ModelA",2040,"statusquo",0.4,"ABC","hiv_incidence",0.2131
-"2024-03-01","ModelA",2040,"statusquo",0.45,"ABC","hiv_incidence",0.2317
-"2024-03-01","ModelA",2040,"statusquo",0.5,"ABC","hiv_incidence",0.25
-"2024-03-01","ModelA",2040,"statusquo",0.55,"ABC","hiv_incidence",0.2683
-"2024-03-01","ModelA",2040,"statusquo",0.6,"ABC","hiv_incidence",0.2869
-"2024-03-01","ModelA",2040,"statusquo",0.65,"ABC","hiv_incidence",0.3062
-"2024-03-01","ModelA",2040,"statusquo",0.7,"ABC","hiv_incidence",0.3265
-"2024-03-01","ModelA",2040,"statusquo",0.75,"ABC","hiv_incidence",0.3483
-"2024-03-01","ModelA",2040,"statusquo",0.8,"ABC","hiv_incidence",0.3727
-"2024-03-01","ModelA",2040,"statusquo",0.85,"ABC","hiv_incidence",0.4011
-"2024-03-01","ModelA",2040,"statusquo",0.9,"ABC","hiv_incidence",0.4369
-"2024-03-01","ModelA",2040,"statusquo",0.95,"ABC","hiv_incidence",0.4898
-"2024-03-01","ModelA",2040,"statusquo",0.975,"ABC","hiv_incidence",0.5358
-"2024-03-01","ModelA",2040,"statusquo",0.99,"ABC","hiv_incidence",0.5892
+"projection_date","model_name","year","scenario_name","quantile","country_iso3","age","gender","population","target","value"
+"2024-03-01","ModelA",2023,"statusquo",0.01,"ABC","15-49","Total","General population","hiv_incidence",0.8313
+"2024-03-01","ModelA",2023,"statusquo",0.025,"ABC","15-49","Total","General population","hiv_incidence",0.8972
+"2024-03-01","ModelA",2023,"statusquo",0.05,"ABC","15-49","Total","General population","hiv_incidence",0.9539
+"2024-03-01","ModelA",2023,"statusquo",0.1,"ABC","15-49","Total","General population","hiv_incidence",1.0193
+"2024-03-01","ModelA",2023,"statusquo",0.15,"ABC","15-49","Total","General population","hiv_incidence",1.0634
+"2024-03-01","ModelA",2023,"statusquo",0.2,"ABC","15-49","Total","General population","hiv_incidence",1.0985
+"2024-03-01","ModelA",2023,"statusquo",0.25,"ABC","15-49","Total","General population","hiv_incidence",1.1286
+"2024-03-01","ModelA",2023,"statusquo",0.3,"ABC","15-49","Total","General population","hiv_incidence",1.1556
+"2024-03-01","ModelA",2023,"statusquo",0.35,"ABC","15-49","Total","General population","hiv_incidence",1.1806
+"2024-03-01","ModelA",2023,"statusquo",0.4,"ABC","15-49","Total","General population","hiv_incidence",1.2044
+"2024-03-01","ModelA",2023,"statusquo",0.45,"ABC","15-49","Total","General population","hiv_incidence",1.2274
+"2024-03-01","ModelA",2023,"statusquo",0.5,"ABC","15-49","Total","General population","hiv_incidence",1.25
+"2024-03-01","ModelA",2023,"statusquo",0.55,"ABC","15-49","Total","General population","hiv_incidence",1.2726
+"2024-03-01","ModelA",2023,"statusquo",0.6,"ABC","15-49","Total","General population","hiv_incidence",1.2956
+"2024-03-01","ModelA",2023,"statusquo",0.65,"ABC","15-49","Total","General population","hiv_incidence",1.3194
+"2024-03-01","ModelA",2023,"statusquo",0.7,"ABC","15-49","Total","General population","hiv_incidence",1.3444
+"2024-03-01","ModelA",2023,"statusquo",0.75,"ABC","15-49","Total","General population","hiv_incidence",1.3714
+"2024-03-01","ModelA",2023,"statusquo",0.8,"ABC","15-49","Total","General population","hiv_incidence",1.4015
+"2024-03-01","ModelA",2023,"statusquo",0.85,"ABC","15-49","Total","General population","hiv_incidence",1.4366
+"2024-03-01","ModelA",2023,"statusquo",0.9,"ABC","15-49","Total","General population","hiv_incidence",1.4807
+"2024-03-01","ModelA",2023,"statusquo",0.95,"ABC","15-49","Total","General population","hiv_incidence",1.5461
+"2024-03-01","ModelA",2023,"statusquo",0.975,"ABC","15-49","Total","General population","hiv_incidence",1.6028
+"2024-03-01","ModelA",2023,"statusquo",0.99,"ABC","15-49","Total","General population","hiv_incidence",1.6687
+"2024-03-01","ModelA",2030,"statusquo",0.01,"ABC","15-49","Total","General population","hiv_incidence",0.3731
+"2024-03-01","ModelA",2030,"statusquo",0.025,"ABC","15-49","Total","General population","hiv_incidence",0.4325
+"2024-03-01","ModelA",2030,"statusquo",0.05,"ABC","15-49","Total","General population","hiv_incidence",0.4835
+"2024-03-01","ModelA",2030,"statusquo",0.1,"ABC","15-49","Total","General population","hiv_incidence",0.5424
+"2024-03-01","ModelA",2030,"statusquo",0.15,"ABC","15-49","Total","General population","hiv_incidence",0.5821
+"2024-03-01","ModelA",2030,"statusquo",0.2,"ABC","15-49","Total","General population","hiv_incidence",0.6137
+"2024-03-01","ModelA",2030,"statusquo",0.25,"ABC","15-49","Total","General population","hiv_incidence",0.6407
+"2024-03-01","ModelA",2030,"statusquo",0.3,"ABC","15-49","Total","General population","hiv_incidence",0.665
+"2024-03-01","ModelA",2030,"statusquo",0.35,"ABC","15-49","Total","General population","hiv_incidence",0.6876
+"2024-03-01","ModelA",2030,"statusquo",0.4,"ABC","15-49","Total","General population","hiv_incidence",0.709
+"2024-03-01","ModelA",2030,"statusquo",0.45,"ABC","15-49","Total","General population","hiv_incidence",0.7296
+"2024-03-01","ModelA",2030,"statusquo",0.5,"ABC","15-49","Total","General population","hiv_incidence",0.75
+"2024-03-01","ModelA",2030,"statusquo",0.55,"ABC","15-49","Total","General population","hiv_incidence",0.7704
+"2024-03-01","ModelA",2030,"statusquo",0.6,"ABC","15-49","Total","General population","hiv_incidence",0.791
+"2024-03-01","ModelA",2030,"statusquo",0.65,"ABC","15-49","Total","General population","hiv_incidence",0.8124
+"2024-03-01","ModelA",2030,"statusquo",0.7,"ABC","15-49","Total","General population","hiv_incidence",0.835
+"2024-03-01","ModelA",2030,"statusquo",0.75,"ABC","15-49","Total","General population","hiv_incidence",0.8593
+"2024-03-01","ModelA",2030,"statusquo",0.8,"ABC","15-49","Total","General population","hiv_incidence",0.8863
+"2024-03-01","ModelA",2030,"statusquo",0.85,"ABC","15-49","Total","General population","hiv_incidence",0.9179
+"2024-03-01","ModelA",2030,"statusquo",0.9,"ABC","15-49","Total","General population","hiv_incidence",0.9576
+"2024-03-01","ModelA",2030,"statusquo",0.95,"ABC","15-49","Total","General population","hiv_incidence",1.0165
+"2024-03-01","ModelA",2030,"statusquo",0.975,"ABC","15-49","Total","General population","hiv_incidence",1.0675
+"2024-03-01","ModelA",2030,"statusquo",0.99,"ABC","15-49","Total","General population","hiv_incidence",1.1269
+"2024-03-01","ModelA",2040,"statusquo",0.01,"ABC","15-49","Total","General population","hiv_incidence",0
+"2024-03-01","ModelA",2040,"statusquo",0.025,"ABC","15-49","Total","General population","hiv_incidence",0
+"2024-03-01","ModelA",2040,"statusquo",0.05,"ABC","15-49","Total","General population","hiv_incidence",0.0102
+"2024-03-01","ModelA",2040,"statusquo",0.1,"ABC","15-49","Total","General population","hiv_incidence",0.0631
+"2024-03-01","ModelA",2040,"statusquo",0.15,"ABC","15-49","Total","General population","hiv_incidence",0.0989
+"2024-03-01","ModelA",2040,"statusquo",0.2,"ABC","15-49","Total","General population","hiv_incidence",0.1273
+"2024-03-01","ModelA",2040,"statusquo",0.25,"ABC","15-49","Total","General population","hiv_incidence",0.1517
+"2024-03-01","ModelA",2040,"statusquo",0.3,"ABC","15-49","Total","General population","hiv_incidence",0.1735
+"2024-03-01","ModelA",2040,"statusquo",0.35,"ABC","15-49","Total","General population","hiv_incidence",0.1938
+"2024-03-01","ModelA",2040,"statusquo",0.4,"ABC","15-49","Total","General population","hiv_incidence",0.2131
+"2024-03-01","ModelA",2040,"statusquo",0.45,"ABC","15-49","Total","General population","hiv_incidence",0.2317
+"2024-03-01","ModelA",2040,"statusquo",0.5,"ABC","15-49","Total","General population","hiv_incidence",0.25
+"2024-03-01","ModelA",2040,"statusquo",0.55,"ABC","15-49","Total","General population","hiv_incidence",0.2683
+"2024-03-01","ModelA",2040,"statusquo",0.6,"ABC","15-49","Total","General population","hiv_incidence",0.2869
+"2024-03-01","ModelA",2040,"statusquo",0.65,"ABC","15-49","Total","General population","hiv_incidence",0.3062
+"2024-03-01","ModelA",2040,"statusquo",0.7,"ABC","15-49","Total","General population","hiv_incidence",0.3265
+"2024-03-01","ModelA",2040,"statusquo",0.75,"ABC","15-49","Total","General population","hiv_incidence",0.3483
+"2024-03-01","ModelA",2040,"statusquo",0.8,"ABC","15-49","Total","General population","hiv_incidence",0.3727
+"2024-03-01","ModelA",2040,"statusquo",0.85,"ABC","15-49","Total","General population","hiv_incidence",0.4011
+"2024-03-01","ModelA",2040,"statusquo",0.9,"ABC","15-49","Total","General population","hiv_incidence",0.4369
+"2024-03-01","ModelA",2040,"statusquo",0.95,"ABC","15-49","Total","General population","hiv_incidence",0.4898
+"2024-03-01","ModelA",2040,"statusquo",0.975,"ABC","15-49","Total","General population","hiv_incidence",0.5358
+"2024-03-01","ModelA",2040,"statusquo",0.99,"ABC","15-49","Total","General population","hiv_incidence",0.5892

@@ -3,7 +3,7 @@
 # Script to aggregate CDFs from multiple models
 # 
 # Example call:
-# Rscript src/viz/combine_cdfs.R "data/examples" "data/examples/phase1-targ-aggregated.csv"
+# Rscript src/data/combine_cdfs.R "data/examples" "data/examples/phase1-targ-aggregated.csv"
 # 
 # Saves all results, including ensemble/aggregate to the specified output file
 
@@ -25,7 +25,7 @@ output_file <- args[2]
 
 
 # Find files matching template name
-files <- Sys.glob(paste0(input_dir, '/phase1-targ-*.csv'))
+files <- Sys.glob(paste0(input_dir, '/phase1-targ-Model*.csv'))
 
 # Read files as CSV
 list_files <- lapply(files, read.csv)
@@ -34,7 +34,7 @@ df_targ <- do.call(rbind, list_files)
 # Aggregate the different model results
 cdfs <- aggregate_cdfs(df_targ, 
     id_var = "model_name", 
-    group_by = c("year", "country_iso3", "target", "scenario"), 
+    group_by = c("year", "country_iso3", "age", "gender", "population", "target", "scenario_name"), 
     method = "LOP", 
     ret_quantiles = quantiles)
 
