@@ -28,7 +28,7 @@ For phase 1 the following files are requested:
 - `scenario_name`: Name of the scenario, to be decided with modelling teams during country consultations (e.g. `statusquo`).
 - `trajectory_id`: An ID for the trajectory, from 1 to 100.
 - `country_iso3`: ISO 3 code country name (e.g. `KEN` for Kenya).
-- `target`: The target metric being projected, e.g. `hiv_incidence`.
+- `target`: The target metric being projected, e.g. `hiv_incidence` per 100 py.
 - `value`: The value of the model projection.
 
 
@@ -41,7 +41,7 @@ For phase 1 the following files are requested:
 - `scenario`: Name of the scenario, to be decided with modelling teams during country consultations (e.g. `statusquo`).
 - `quantile`: Quantiles of the target metric being projected, with 23 quantiles: 0.01, 0.025, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 0.975, 0.99.
 - `country_iso3`: ISO 3 code country name (e.g. `KEN` for Kenya).
-- `target`: The target metric being projected, e.g. `hiv_incidence`.
+- `target`: The target metric being projected, e.g. `hiv_incidence` per 100 py.
 - `value`: The value of the model projection for the target, quantile, country and year in question.
 
 Example data are provided in `data/examples`.
@@ -60,7 +60,7 @@ Modelling teams are requested to submit a yaml file in the same subfolder with t
 - `model_abbreviation`:	An abbreviation for the model to be displayed on figures and tables (and used as subfolder name), only numbers/letters/underscore, 30 characters max
 - `model_version:`	Version of the model used for the projections.  If the model has no versioning then use the current date (YYYY-MM-DD).
 - `model_contributors`:	A list of model contributors
--`model_website`:	URL of the model (may be different to the source code URL)
+- `model_website`:	URL of the model (may be different to the source code URL)
 - `model_code_url`:	URL of the model source code, if available
 - `model_license`:	Licence of the model and URL of license
 - `model_calibration`:	Short description of the calibration method used with the model
